@@ -19,9 +19,10 @@
 		property="og:description"
 		content="Learn accounting concepts offline with BookLet — a portable, interactive workbook for ABM students and beginners."
 	/>
+	<meta property="og:site_name" content="BookLet" />
 	<meta property="og:type" content="website" />
 	<meta property="og:image" content="/icons/cover.png" />
-	<meta property="og:url" content="" />
+	<meta property="og:url" content="https://book-let.vercel.com/" />
 	<meta name="twitter:card" content="summary_large_image" />
 	<meta name="twitter:title" content="BookLet — Offline Accounting Practice App" />
 	<meta

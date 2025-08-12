@@ -31,8 +31,8 @@ Here's what I planned and being worked on for this app:
   - [ ] Posting entries
   - [ ] Preliminary trial balances
   - [ ] Adjusting entries  
-  - [ ] Worksheets  
-  - Financial statements:
+  - [ ] Worksheet  
+  Financial statements:
     - [ ] Income Statement
     - [ ] Balance Sheet
     - [ ] Statement of Changes in Owner's Equity
