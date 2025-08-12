@@ -6,15 +6,14 @@
 ![platform: android](https://img.shields.io/badge/platform-android-green?style=flat-square)
 ![offline-first](https://img.shields.io/badge/offline-first-blueviolet?style=flat-square)
 
-**BookLet** is a _Progressive Web Application_ (_PWA_) that's made to help students **practice**, and **learn** accounting concepts.
+**BookLet** is a *Progressive Web Application* (*PWA*) that's made to help students **practice**, and **learn** accounting concepts.
 It works without internet or a laptop, giving you — the user — the power of portability anywhere you go.  
 It's like your personal workbook but digital, portable, and interactive.  
-Perfect for _Accountancy and Business Management_ (_ABM_) students, self-learners, or anyone curious 'bout how businesses track their money.
+Perfect for *Accountancy and Business Management* (*ABM*) students, self-learners, or anyone curious 'bout how businesses track their money.  
 
 ---
 
 ## What You Can Do With It?
-
 This app offers the following:
 
 - Learn **basic** to **intermediate** accounting concepts.
@@ -25,16 +24,15 @@ This app offers the following:
 All offline — no login, no trackers, just learning in peace.
 
 ## Roadmap & Features
-
 Here's what I planned and being worked on for this app:
 
 - Add interactive accounting processes:
   - [ ] Journalizing entries
   - [ ] Posting entries
   - [ ] Preliminary trial balances
-  - [ ] Adjusting entries
-  - [ ] Worksheets
-        Financial statements:
+  - [ ] Adjusting entries  
+  - [ ] Worksheets  
+  - Financial statements:
     - [ ] Income Statement
     - [ ] Balance Sheet
     - [ ] Statement of Changes in Owner's Equity
@@ -50,7 +48,6 @@ Here's what I planned and being worked on for this app:
 ---
 
 ## Target Audience
-
 This app isn’t built for CPAs or auditors.  
 It’s for **students**, especially those in the **ABM strand** or self-studying accounting.
 
@@ -63,7 +60,6 @@ It’s made for:
 ---
 
 ## Contributing
-
 Suggestions, pull requests, and feedback are all welcome!
 If you're a student like me, you don't have to be a pro. You can:
 
@@ -77,13 +73,11 @@ Fork it, make a change, and open a pull request. I'll review it — promise.
 ---
 
 # License
-
 This project is licensed under the [MIT License](LICENSE).
 You are free to use, modify, and distribute it as long as you keep the license and credit.
 
 ---
 
 ## Author
-
 Made with genuine love, hate, and curiosity  
 — **@Kanester (xiöv)**.
